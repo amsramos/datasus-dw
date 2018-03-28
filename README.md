@@ -9,7 +9,7 @@ Creation of a Data Warehouse based on Datasus database for INF010 discipline.
 
 - Information about these files:
 
-    SIM - Sistema de Informações de Mortalidadea
+    SIM - Sistema de Informações de Mortalidade
 
     DOEXT - Declarações de Óbitos por causas externas - 1979 a 2015
     
