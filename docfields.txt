@@ -1,0 +1,114 @@
+ACIDTRAB - Acidente de trabalho
+ALTCAUSA - Correção ou alteração da causa do óbito após investigação
+AREARES - Área de residência
+ASSISTMED - Assistência médica
+ATESTADO - CIDs informados no atestado
+ATESTANTE - Médico que assina atendeu o paciente
+BAIRES - Bairro residencial
+CARTORIO, CODCART - Cartório
+CAUSABAS - Causa básica
+CAUSABAS_O - Causa básica original
+CAUSAMAT - Causa externa associada a uma causa materna
+CB_PRE - Causa selecionada sem re-seleção
+CIRCOBITO - Circunstância do óbito
+CIRURGIA - Cirurgia
+CODBAIOCOR - Bairro de ocorrência do óbito
+CODBAIRES - Código do Bairro de residência do falecido
+CODESTAB - Codigo do estabelecimento
+CODIFICADO - Se estiver codificado
+CODIGO - Código do estabelecimento onde ocorreu o óbito
+CODINST - Código da instalação
+CODMUNCART - Município do cartório
+CODMUNNATU - Muninípio de naturalidade
+CODMUNOCOR, MUNIOCOR - Município de ocorrência do óbito
+CODMUNRES, MUNIRES - Município de residência do falecido
+COMUNSVOIM - Código do Município do SVO ou do IML
+CRITICA -
+CRM - Número do CRM
+CRSOCOR - Regional de Saúde de ocorrência
+CRSRES - Regional de Saúde de residência
+DATANASC, DTNASC - Data de nascimento
+DIFDATA - Diferença entre data de óbito e data do recebimento original da DO
+DTATESTADO - Data do atestado
+DTCADASTRO, DTCADINF - Data de cadastro
+DTINVESTIG, DTCADINV - Data de investigação
+DTOBITO, DATAOBITO - Data do óbito
+DTRECEBIM - Data de recebimento
+DTRECORIG, DTRECORIGA - Data do recebimento original
+DATAREG, DTREGCART - Data do registro do cartório
+ESC, ESC2010 - Escolaridade
+ESCFALAGR1 - Escolaridade do falecido agregada 2010
+ESCMAE, ESCMAE2010 - Escolaridade da mãe
+ESCMAEAGR1 - Escolaridade da mãe agregada 2010
+ESTCIVIL, ESTCIV - Estado Civil
+EXAME - Exame complementar
+FONTE, FONTINFO - Fonte da informação
+FONTEINV - Fonte de investigação
+GESTACAO - Faixa em semanas de gestação
+SEMAGESTAC, SEMANGEST - Número de semanas de gestação
+GRAVIDEZ, TIPOGRAV - Tipo de gravidez
+HORAOBITO - Hora do óbito
+IDADE - Idade
+IDADEMAE - Idade da mãe
+INSTRMAE - Instrução da mãe
+INSTRPAI - Instrução do pai
+INSTRUCAO - Instrução do falecido
+LINHAA - Linha A do atestado
+LINHAB - Linha B do atestado
+LINHAC - Linha C do atestado
+LINHAD - Linha D do atestado
+LINHAII - Linha II do atestado
+LOCACID - Local do acidente
+LOCOCOR - Local do óbito
+MORTEPARTO - Momento do óbito em relação ao parto
+NATURAL - Naturalidade
+NECROPSIA - Necrópsia
+NUMERODN - Número da Declaração de Nascido Vivo
+NUMERODO, DO - Número da DO
+NUMERODV - Número do Dígito Verificador
+NUMEROLOTE - Número do lote
+NUMEXPORT -
+NUMREGCART - Número do registro do cartório
+NUMSUS - Número do SUS
+OBITOFE1 - Óbitos femininos em idade fértil, indica se esteve grávida no momento da morte
+OBITOFE2 - Óbitos femininos em idade fértil, indica se esteve grávida 12 meses antes
+OBITOGRAV - Óbito na gravidez
+OBITOPARTO - Óbito no parto
+OBITOPUERP - Óbito no puerpério
+OCUP, OCUPACAO - Ocupação
+OCUPMAE - Ocupação da mãe
+OCUPPAI - Ocupação do pai
+PARTO, TIPOPARTO - Tipo de parto
+PESO, PESONASC - Peso ao nascer
+QTDFILMORT, FILHMORT - Quantidade de filhos mortos
+QTDFILVIVO, FILHVIVOS - Quantidade de filhos vivos
+RACACOR - Raça/Cor
+REGISTRO - Número de registro do óbito
+SERIESCFAL - Série escolar do falecido
+SERIESCMAE - Série escolar da mãe
+SEXO - Sexo
+STCODIFICA - Status de instalação
+STDOEPIDEM - Status de DO epidemiológica
+STDONOVA - Status de DO nova
+TIPOACID - Tipologia do acidente
+TIPOBITO - Tipo do Óbito
+TIPOVIOL - Tipo de violência
+TPASSINA - 
+TPMORTEOCO - Quando a morte ocorreu
+TPPOS - Óbito investigado
+UFINFORM - UF que informou o registro
+VERSAOSCB - Versão do seletor causa básica
+VERSAOSIST - Versão do sistema
+DTCONCASO
+DTCONINV
+ESTABDESCR
+EXPDIFDATA
+FONTES
+FONTESINF
+NUDIASINF
+NUDIASOBCO
+NUDIASOBIN
+ORIGEM
+TPNIVELINV
+TPOBITOCOR
+TPRESGINFO

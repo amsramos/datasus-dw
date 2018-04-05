@@ -11,6 +11,8 @@ files = list.files(paste(getwd(), 'data_files', sep='/'))
 
 cat('', file='tables.txt', sep='\n') # Just to overwrite tables.txt file
 
+fieldNames = c()
+
 for (file in files) {
     df = read.dbc(paste(getwd(), 'data_files', file, sep='/'))
 
@@ -25,6 +27,7 @@ for (file in files) {
 
     for (column in names(df)) {
         cat(paste(column, ', ', sep=''), file='tables.txt', sep='', append=TRUE)
+        fieldNames = c(fieldNames, column)
     }
 
     cat('\n\n__________________________________________________\n\n', file='tables.txt', sep='', append=TRUE)
@@ -37,3 +40,12 @@ for (file in files) {
     print('FINISHED')
 }
 
+fieldNames = sort(fieldNames[!duplicated(fieldNames)])
+
+cat('', file='fieldnames.txt', sep='')
+
+for (name in fieldNames) {
+    cat(name, file='fieldnames.txt', sep='\n', append=TRUE)
+}
+
+print('FIELD NAMES FILE CREATED')
