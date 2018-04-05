@@ -91,7 +91,7 @@ STCODIFICA - Status de instalação
 STDOEPIDEM - Status de DO epidemiológica
 STDONOVA - Status de DO nova
 TIPOACID - Tipologia do acidente
-TIPOBITO - Tipo do Óbito
+TIPOBITO, TPOBITOCOR - Tipo do Óbito
 TIPOVIOL - Tipo de violência
 TPASSINA - 
 TPMORTEOCO - Quando a morte ocorreu
@@ -99,16 +99,15 @@ TPPOS - Óbito investigado
 UFINFORM - UF que informou o registro
 VERSAOSCB - Versão do seletor causa básica
 VERSAOSIST - Versão do sistema
-DTCONCASO
-DTCONINV
-ESTABDESCR
-EXPDIFDATA
-FONTES
-FONTESINF
-NUDIASINF
-NUDIASOBCO
-NUDIASOBIN
-ORIGEM
-TPNIVELINV
-TPOBITOCOR
-TPRESGINFO
+FONTES - Fontes de dados consultados
+FONTESINF - Fontes de dados informados
+NUDIASINF - Número de dias informados
+EXPDIFDATA - Diferença entre a data de óbito e a data do recebimento da DO
+NUDIASOBIN - Número de dias entre o óbito e a investigação
+NUDIASOBCO - Número de dias entre o óbito e o cadastro
+DTCONCASO - Data de conclusão do caso
+DTCONINV - Data de conclusão da investigação
+TPNIVELINV - Tipo de nível investigador
+TPRESGINFO - A investigação permitiu o resgate de alguma causa de óbito não informado, ou  a  correção  de  alguma  antes  informada? 
+ESTABDESCR - Código do estabelecimento de saúde onde ocorreu o cadastro
+ORIGEM - Origem do óbito
